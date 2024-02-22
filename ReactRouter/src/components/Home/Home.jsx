@@ -1,3 +1,7 @@
+import React from "react"
+import { Link } from 'react-router-dom';
+
+
 export default function Home() {
     return (
         <div className="mx-auto w-full max-w-7xl">
@@ -29,12 +33,12 @@ export default function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96" src="https://i.ibb.co/5BCcDYB/Remote2.png" alt="image1" />
+                    <img className="w-96" src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-online_23-2150898633.jpg?t=st=1708593739~exp=1708597339~hmac=70bd6374887c3899435c883c1309ed9c8136e8cde08e00a82adfa6b794548bd3&w=740" alt="image1" />
                 </div>
             </aside>
 
             <div className="grid  place-items-center sm:mt-20">
-                <img className="sm:w-96 w-48" src="https://i.ibb.co/2M7rtLk/Remote1.png" alt="image2" />
+                <img className="sm:w-96 w-48" src="https://img.freepik.com/free-psd/3d-nft-icon-developer-male-illustration_629802-6.jpg?w=740&t=st=1708593687~exp=1708594287~hmac=1d94a6f3dd8d6bbeb21f43d6b1b4d8dacd527fa3a814e303fe44ea0f3d3a3cd6" alt="image2" />
             </div>
 
             <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum Yojo</h1>

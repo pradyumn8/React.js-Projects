@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function About() {
     return (
         <div className="py-16 bg-white">
@@ -5,7 +7,7 @@ export default function About() {
                 <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                     <div className="md:5/12 lg:w-5/12">
                         <img
-                            src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png"
+                            src="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1708593878~exp=1708597478~hmac=196ff8b4944838ac5ceb08734446793c3a7b2b03fa4659b3309796799969fee6&w=740"
                             alt="image"
                         />
                     </div>

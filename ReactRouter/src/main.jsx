@@ -1,6 +1,5 @@
 import React from "react"
 import ReactDOM from 'react-dom/client'
-import App from "./App"
 import './index.css'
 import { Route, RouterProvider, createBrowserRouter, createRoutesFromElements } from 'react-router-dom'
 
@@ -8,6 +7,8 @@ import Layout from "./Layout"
 import Home from "./components/Home/Home"
 import About from "./components/About/About"
 import Contact from "./components/Contact/Contact"
+import User from "./components/User/User"
+import Github, { githubInfoLoader } from "./components/Github/Github"
 
 const router = createBrowserRouter(
   createRoutesFromElements(
