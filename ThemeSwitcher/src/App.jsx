@@ -5,8 +5,24 @@ import { ThemeProvider } from './contexts/theme'
 import './App.css'
 
 function App() {
+  const [themeMode, setThemeMode] = useState("light")
+
+  const lightTheme = () => {
+    setThemeMode('light')
+  }
   
+  const darkTheme = () => {
+    setThemeMode('dark')
+  }
+
+  //actual change in theme
+
+  useEffect(() => {
+    document.querySelector('html').classList.remove('light','dark')
+    document.querySelector('html').classList.add(themeMode)
+  }, [themeMode])
   return (
+    <ThemeProvider value={{themeMode, lightTheme, darkTheme}}>
 
     <div className="flex flex-wrap min-h-screen items-center">
     <div className="w-full">
@@ -19,6 +35,7 @@ function App() {
         </div>
     </div>
 </div>
+</ThemeProvider>
   )
 }
 
