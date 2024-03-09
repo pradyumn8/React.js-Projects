@@ -24,3 +24,8 @@ To clone this repository to your local machine, follow these steps:
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following command:
 
+
+Replace `<https://github.com/pradyumn8/React.js-Projects.git>` with the URL of the repository. You can find the URL by clicking on the green "Code" button on the repository's GitHub page.
+
+4. Once the repository is cloned, navigate into the project directory using the `cd` command:
+
