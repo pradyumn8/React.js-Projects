@@ -45,15 +45,15 @@ After cloning the repository, you can run any project locally. Here's how:
 
 4. Open your web browser and navigate to `http://localhost:5173` to view the project.
 
-# Project: Counter
+## Project: Counter
 
-## Description
+### Description
 This project is a simple counter application built using React.js. It allows users to increment, decrement, and reset the counter.
 
-## Live Demo 🌐
+### Live Demo 🌐
 - [Demo](https://counter-20.netlify.app/)
 
-## GitHub Repository 👨‍💻
+### GitHub Repository 👨‍💻
 - [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/db856029b0476de9e3bb704f3e01c3a16a6b0c9c/Counter)
 
 
