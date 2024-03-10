@@ -89,7 +89,18 @@ Currency Converter is a web application built using React.js that allows users t
 ### GitHub Repository 👨‍💻
 - [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/db856029b0476de9e3bb704f3e01c3a16a6b0c9c/CurrencyConvertor)
 
-#$ Project: Mini Context
+## Project: Theme Switcher
+
+### Description
+Theme Switcher is a React.js project that allows users to toggle between light and dark themes using React Context API.
+
+### Live Demo 🌐
+- [Demo](https://theme-switcherrs.netlify.app/)
+
+### GitHub Repository 👨‍💻
+- [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/ad12aacbbc86940f2172ae5be781f0fa7d7a66eb/ThemeSwitcher)
+
+## Project: Mini Context
 
 ### Description
 Mini Context is a React.js project that demonstrates the usage of React Context API for state management in small-scale applications.
@@ -110,6 +121,17 @@ React Router is a project built using React.js that demonstrates the usage of Re
 
 ### GitHub Repository 👨‍💻
 - [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/db856029b0476de9e3bb704f3e01c3a16a6b0c9c/ReactRouter)
+
+## Project: Redux Toolkit ToDo
+
+### Description
+Redux Toolkit ToDo is a web application built using React.js and Redux Toolkit. It serves as a simple ToDo list application showcasing state management with Redux Toolkit.
+
+### Live Demo 🌐
+- [Demo](https://redux-toolkkit-todo.netlify.app/)
+
+### GitHub Repository 👨‍💻
+- [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/ad12aacbbc86940f2172ae5be781f0fa7d7a66eb/ReduxToolKitToDo)
 
 ## Project: Todo Context LocalStorage
 
