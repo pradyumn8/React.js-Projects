@@ -56,6 +56,27 @@ This project is a simple counter application built using React.js. It allows use
 ### GitHub Repository 👨‍💻
 - [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/db856029b0476de9e3bb704f3e01c3a16a6b0c9c/Counter)
 
+## Project: Background Changer
+
+### Description
+This project is a background changer web application built using React.js. It allows users to change the background color dynamically.
+
+### Live Demo 🌐
+- [Demo](https://backkground-changer.netlify.app/)
+
+### GitHub Repository 👨‍💻
+- [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/db856029b0476de9e3bb704f3e01c3a16a6b0c9c/BgChanger)
+
+## Project: Password Generator
+
+### Description
+Password Generator is a web application built using React.js that allows users to generate secure passwords with customizable options.
+
+### Live Demo 🌐
+- [Demo](https://pwd-changerr.netlify.app/)
+
+### GitHub Repository 👨‍💻
+- [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/db856029b0476de9e3bb704f3e01c3a16a6b0c9c/pwdGenerator)
 
 ## Contributing
 
