@@ -78,6 +78,50 @@ Password Generator is a web application built using React.js that allows users t
 ### GitHub Repository 👨‍💻
 - [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/db856029b0476de9e3bb704f3e01c3a16a6b0c9c/pwdGenerator)
 
+## Project: Currency Converter
+
+### Description
+Currency Converter is a web application built using React.js that allows users to convert currencies from one denomination to another.
+
+### Live Demo 🌐
+- [Demo](https://currrency-converter.netlify.app/)
+
+### GitHub Repository 👨‍💻
+- [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/db856029b0476de9e3bb704f3e01c3a16a6b0c9c/CurrencyConvertor)
+
+#$ Project: Mini Context
+
+### Description
+Mini Context is a React.js project that demonstrates the usage of React Context API for state management in small-scale applications.
+
+### Live Demo 🌐
+- [Demo](https://mini-context.netlify.app/)
+
+### GitHub Repository 👨‍💻
+- [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/db856029b0476de9e3bb704f3e01c3a16a6b0c9c/MiniContext)
+
+## Project: React Router
+
+### Description
+React Router is a project built using React.js that demonstrates the usage of React Router for client-side routing in a single-page application.
+
+### Live Demo 🌐
+- [Demo](https://react-routters.netlify.app/)
+
+### GitHub Repository 👨‍💻
+- [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/db856029b0476de9e3bb704f3e01c3a16a6b0c9c/ReactRouter)
+
+## Project: Todo Context LocalStorage
+
+### Description
+Todo Context LocalStorage is a React.js project that utilizes React Context API along with local storage to manage a todo list application.
+
+### Live Demo 🌐
+- [Demo](https://todocontext-localstorage.netlify.app/)
+
+### GitHub Repository 👨‍💻
+- [GitHub Repository](https://github.com/pradyumn8/React.js-Projects/tree/db856029b0476de9e3bb704f3e01c3a16a6b0c9c/TodoContextLocalStorage)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
