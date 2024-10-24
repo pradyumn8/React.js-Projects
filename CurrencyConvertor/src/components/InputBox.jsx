@@ -1,4 +1,3 @@
-// InputBox.js
 import React, { useId } from 'react';
 
 function InputBox({
@@ -40,7 +39,7 @@ function InputBox({
                 >
                     {currencyOptions.map((currency) => (
                         <option key={currency} value={currency}>
-                            {currency}
+                            {currency.toUpperCase()}
                         </option>
                     ))}
                 </select>
